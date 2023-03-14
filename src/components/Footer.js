@@ -7,4 +7,5 @@ const Footer=(props)=>{
         </div>
     );
 }
+
 export default Footer;
